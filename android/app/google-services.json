@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292766126417",
+    "project_id": "auvnet-task-da739",
+    "storage_bucket": "auvnet-task-da739.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292766126417:android:51cd9774ec17f328828370",
+        "android_client_info": {
+          "package_name": "com.example.auvnet_e_commerce_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0vhlN6_MyXLysI6Fq9kgeo8daN72-N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
